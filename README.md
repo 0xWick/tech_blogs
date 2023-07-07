@@ -3,6 +3,7 @@ Blogs about cool projects I am building. Trying to explain and teach the process
 
 ### How to Querying Ethereum MemPool (Guide)
 
+https://wicks-den.notion.site/Query-Ethereum-MemPool-using-Node-js-Web3-js-and-Geth-9303cffe420e489aa2aa0d92c92e5323?pvs=25
 https://github.com/0xWick/eth_mem_pool
 
 ### How to Create a Sudoku Solver in Python
